@@ -1,0 +1,14 @@
+Thu Mar 17 16:31:49 CET 2016 : Server di rete Apache Derby: 10.11.1.1 - (1616546) avviato e pronto ad accettare connessioni sulla porta 1527
+----------------------------------------------------------------
+Thu Mar 17 16:31:52 CET 2016:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): istanza a816c00e-0153-8534-4541-0000047623f0
+sulla directory di database /Users/Axer/Documents/Eclipse/workspace/RMIServer/database/mydb con caricatore classi sun.misc.Launcher$AppClassLoader@a6eb38a 
+Caricato da file:/Users/Axer/Documents/Eclipse/workspace/db-derby-10.11.1.1-bin/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-468-11M4833
+user.dir=/Users/Axer/Documents/Eclipse/workspace/RMIServer/database
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.3
+derby.system.home=null
+Programma di caricamento classe database avviato - derby.database.classpath=''
