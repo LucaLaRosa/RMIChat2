@@ -1,7 +1,3 @@
 # RMIChat2
 
-to-do:
-
-1) cambiare sfondo copertina, rosso
-2) inserire info sui contatti con link ai profili github
-3) mettere da qualche parte l'immagine dell'applicazione
+Abstract: The application has been originally developed by Frasca Luigi and Gargano Riccardo, then extended by La Rosa Luca and Leoni Alessandro; they are students of the University of Parma (Italy). The project has been updated to be freely referred from the outside, this way we intend to provide an easy way to allow people to read and, hopefully, help us in the development.
